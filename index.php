@@ -2,11 +2,12 @@
   <html>
   <head>
 <meta charset= "utf-8">
-<title>BIENVENIDO A WWW.NUEGADOS.COM </title>
+<title>BIENVENIDO A WWW.TAMALES.COM </title>
 </head>
   <body>
-<h1>¡ Lo lograste! El virtual host www.nuegados.com está funcionando !</h1>
-
+<h1>www.tamales.com está funcionando </h1>
+Si llegasta hasta aca es por que A2F funciona y ademas <br>
+instalaste el certificado en el cliente
  <?php
 print "El hostname del servidor es: ";
 echo gethostname();
